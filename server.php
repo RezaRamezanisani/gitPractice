@@ -1,2 +1,2 @@
 <?php
-echo 'hello server'
+echo 'hello server';
