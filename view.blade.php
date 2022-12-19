@@ -9,5 +9,6 @@
 </head>
 <body>
     <h2>Laravel</h2>
+<p>Master</p>
 </body>
 </html>
